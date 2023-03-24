@@ -5,8 +5,8 @@
 
 |![image](https://user-images.githubusercontent.com/110509654/227474208-7a5aeda4-d83d-435d-8eb7-8fe3aeb82edb.png)|![image](https://user-images.githubusercontent.com/110509654/227474343-a0324a3b-c19e-4908-9351-b755d482a8e8.png)|![image](https://user-images.githubusercontent.com/110509654/227474463-cbd8443e-2e94-497e-aaba-bf3daae21b4b.png)|![image](https://user-images.githubusercontent.com/110509654/227474545-cb17144c-b76a-4dac-a416-8284558d787e.png)|![image](https://user-images.githubusercontent.com/110509654/227474749-058806c4-6001-4725-829a-9b73c9776de1.png)|![image](https://user-images.githubusercontent.com/110509654/227474832-e3443fed-3ca3-4487-8edd-ce0f92e112e2.png)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Front-End|Front-End|Back-End|Back-End|Back-End|Back-End|
-|김태영|장지연|👑하민성👑|서인덕|윤윤성|이혜린|
+|**Front-End**|**Front-End**|**Back-End**|**Back-End**|**Back-End**|**Back-End**|
+|**김태영**|**장지연**|**👑하민성👑**|**서인덕**|**윤윤성**|**이혜린**|
 
 
 ## 👨‍💻 프로젝트 소개
@@ -81,6 +81,39 @@
 * Release(Dev Branch로 Merge)는 전원의 감수 및 동의로 진행한다.
 * HotFix는 과반수(2명) 이상의 동의를 받는다.
 * 모든 파트원(Back : 4 / Front : 2)에게 리뷰(확인)를 받아야 Release를 진행할 수 있다.
+
+## 👨‍🔧 기술 스택
+
+**Front-End**
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=#3178C6"/></a>
+<img src="https://img.shields.io/badge/React Router v6-000000?style=flat-square&logo=React Router&logoColor=#CA4245"/></a>
+<img src="https://img.shields.io/badge/Tailwind CSS-000000?style=flat-square&logo=Tailwind css&logoColor=#06B6D4"/></a>
+<img src="https://img.shields.io/badge/styled components-000000?style=flat-square&logo=styled-components&logoColor=#DB7093"/></a>
+<img src="https://img.shields.io/badge/React Query-000000?style=flat-square&logo=React Query&logoColor=#FF4154"/></a>
+<img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor=#5A29E4"/></a>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=#F24E1E"/></a>
+<img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=#DB7093"/></a>
+
+
+**Back-End**
+
+
+**Production & Deploy**
+
+
+**Collaboration tool**
+
+
+## ⚙️ Architecture
+
+![image](https://user-images.githubusercontent.com/110509654/227493034-c3de389e-1995-4075-8e82-c1f85f196041.png)
+
+
+## 📑 ERD 
+
+![image](https://user-images.githubusercontent.com/110509654/227492926-baf1625c-62e1-4ec9-a9ab-7160f3f07f32.png)
 
 
 ## 📜 기술 블로그
