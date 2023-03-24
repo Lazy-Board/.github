@@ -99,15 +99,36 @@
 
 **Back-End**
 
+<img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
+<img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=Gradle&logoColor=#02303A"/></a>
+<img src="https://img.shields.io/badge/Spring Security-000000?style=flat-square&logo=Spring Security&logoColor=#6DB33F"/></a>
+<img src="https://img.shields.io/badge/Spring JPA-000000?style=flat-square&logo=Spring Jpa&logoColor=#6DB33F"/></a>
+<img src="https://img.shields.io/badge/Spring Batch-000000?style=flat-square&logo=Spring Batch&logoColor=#6DB33F"/></a>
+<img src="https://img.shields.io/badge/QueryDsl-000000?style=flat-square&logo=QueryDsl&logoColor=#02303A"/></a>
+<img src="https://img.shields.io/badge/Oauth 2.0-000000?style=flat-square&logo=Authy&logoColor=#EC1C24"/></a>
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=#000000"/></a>
+
+<img src="https://img.shields.io/badge/MariaDB-000066?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
+<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=Redis&logoColor=#DC382D"/></a>
+<img src="https://img.shields.io/badge/H2-111111?style=flat-square&logo=H2&logoColor=#DC382D"/></a>
 
 **Production & Deploy**
 
+<img src="https://img.shields.io/badge/AWS-000033?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a>
+<img src="https://img.shields.io/badge/Amazon EC2-000033?style=flat-square&logo=Amazon EC2&logoColor=#FF9900"/></a>
+<img src="https://img.shields.io/badge/Amazon RDS-000033?style=flat-square&logo=Amazon RDS&logoColor=#527FFF"/></a>
+<img src="https://img.shields.io/badge/Amazon S3-000033?style=flat-square&logo=Amazon S3&logoColor=#569A31"/></a>
+<img src="https://img.shields.io/badge/Docker-000033?style=flat-square&logo=Docker&logoColor=#2496ED"/></a>
+<img src="https://img.shields.io/badge/Jenkins-333333?style=flat-square&logo=Jenkins&logoColor=#D24939"/></a>
 
 **Collaboration tool**
 
+<img src="https://img.shields.io/badge/Slack-660099?style=flat-square&logo=Slack&logoColor=#4A154B"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#000000"/></a>
 
 ## ⚙️ Architecture
 
+![image](https://user-images.githubusercontent.com/110509654/227493034-c3de389e-1995-4075-8e82-c1f85f196041.png)
 ![image](https://user-images.githubusercontent.com/110509654/227493034-c3de389e-1995-4075-8e82-c1f85f196041.png)
 
 
