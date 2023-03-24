@@ -129,7 +129,6 @@
 ## ⚙️ Architecture
 
 ![image](https://user-images.githubusercontent.com/110509654/227493034-c3de389e-1995-4075-8e82-c1f85f196041.png)
-![image](https://user-images.githubusercontent.com/110509654/227493034-c3de389e-1995-4075-8e82-c1f85f196041.png)
 
 
 ## 📑 ERD 
