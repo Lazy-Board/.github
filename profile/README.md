@@ -350,12 +350,10 @@
     - MariaDB 대소문자 구분 안하도록 설정(AWS RDS 파라미터 그룹 메뉴에서 lower_case_table_names를 **1**로 변경
 
 **5. DataBase**
-
 - 로컬 테스트시 사용한 H2 DB에서 발생한 에러
     - ID 값을 GenerationType.IDENTITY 로 설정시 H2 에서 에러 발생
     - H2에서 AUTO_INCREMENT를 사용하기 위해선 IDENTITY 보단 SEQUENCE를 사용한다는 것을 알게 됨(SEQUENCE 로 변경후 정상 작동 확인 완료)
-    
-     **→ DB마다 IDENTITY 생성에 사용하는 문법의 차이가 있다.**
+     **=> DB마다 IDENTITY 생성에 사용하는 문법의 차이가 있다.**
      
 **6. 크롤링 관련 Issue**
 
