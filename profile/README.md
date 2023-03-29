@@ -154,7 +154,7 @@
 
 |환율|
 |:---:|
-|![환율](https://user-images.githubusercontent.com/110509654/227858037-72fe1c59-1274-4c1d-a633-970e580ad857.gif)|
+|![환율](https://user-images.githubusercontent.com/110509654/228519779-6d5e4492-6a29-4e52-92c7-b3b14629fa37.gif)|
 
 ## ✨ 프로젝트 주요기능
 
