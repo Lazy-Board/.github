@@ -86,47 +86,14 @@
 
 ## 👨‍🔧 기술 스택
 
-**Front-End**
+| 구분 | 기술 스택 |
+|------|-----------|
+| **Front-End** | React, TypeScript, React Router v6, Tailwind CSS, styled-components, React Query, Axios, Figma, Recoil |
+| **Back-End** | Spring Boot, Gradle, Spring Security, Spring JPA, Spring Batch, QueryDSL, OAuth 2.0, JWT, MariaDB, Redis |
+| **Production & Deploy** | AWS, Amazon EC2, Amazon RDS, Amazon S3, Docker, Jenkins |
+| **Collaboration** | Slack, Notion |
 
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=#61DAFB"/></a>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=#3178C6"/></a>
-<img src="https://img.shields.io/badge/React Router v6-000000?style=flat-square&logo=React Router&logoColor=#CA4245"/></a>
-<img src="https://img.shields.io/badge/Tailwind CSS-000000?style=flat-square&logo=Tailwind css&logoColor=#06B6D4"/></a>
-<img src="https://img.shields.io/badge/styled components-000000?style=flat-square&logo=styled-components&logoColor=#DB7093"/></a>
-<img src="https://img.shields.io/badge/React Query-000000?style=flat-square&logo=React Query&logoColor=#FF4154"/></a>
-<img src="https://img.shields.io/badge/Axios-000000?style=flat-square&logo=Axios&logoColor=#5A29E4"/></a>
-<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=#F24E1E"/></a>
-<img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=#DB7093"/></a>
-
-
-**Back-End**
-
-<img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/></a>
-<img src="https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=Gradle&logoColor=#02303A"/></a>
-<img src="https://img.shields.io/badge/Spring Security-000000?style=flat-square&logo=Spring Security&logoColor=#6DB33F"/></a>
-<img src="https://img.shields.io/badge/Spring JPA-000000?style=flat-square&logo=Spring Jpa&logoColor=#6DB33F"/></a>
-<img src="https://img.shields.io/badge/Spring Batch-000000?style=flat-square&logo=Spring Batch&logoColor=#6DB33F"/></a>
-<img src="https://img.shields.io/badge/QueryDsl-000000?style=flat-square&logo=QueryDsl&logoColor=#02303A"/></a>
-<img src="https://img.shields.io/badge/Oauth 2.0-000000?style=flat-square&logo=Authy&logoColor=#EC1C24"/></a>
-<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=#000000"/></a>
-
-<img src="https://img.shields.io/badge/MariaDB-000066?style=flat-square&logo=MariaDB&logoColor=#003545"/></a>
-<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=Redis&logoColor=#DC382D"/></a>
-<img src="https://img.shields.io/badge/H2-111111?style=flat-square&logo=H2&logoColor=#DC382D"/></a>
-
-**Production & Deploy**
-
-<img src="https://img.shields.io/badge/AWS-000033?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/></a>
-<img src="https://img.shields.io/badge/Amazon EC2-000033?style=flat-square&logo=Amazon EC2&logoColor=#FF9900"/></a>
-<img src="https://img.shields.io/badge/Amazon RDS-000033?style=flat-square&logo=Amazon RDS&logoColor=#527FFF"/></a>
-<img src="https://img.shields.io/badge/Amazon S3-000033?style=flat-square&logo=Amazon S3&logoColor=#569A31"/></a>
-<img src="https://img.shields.io/badge/Docker-000033?style=flat-square&logo=Docker&logoColor=#2496ED"/></a>
-<img src="https://img.shields.io/badge/Jenkins-333333?style=flat-square&logo=Jenkins&logoColor=#D24939"/></a>
-
-**Collaboration tool**
-
-<img src="https://img.shields.io/badge/Slack-660099?style=flat-square&logo=Slack&logoColor=#4A154B"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=#000000"/></a>
+<br/>
 
 ## ⚙️ Architecture
 
